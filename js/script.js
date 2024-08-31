@@ -76,11 +76,11 @@ const members = {
     khalaBill       :500,
     netBill         :140,
     serviceBill     :20,
-    othersBill      :0,
-    runningMonth    :"August-24",
-    previousMonth   :"July-24", // new addDecember
-    upComingMonth   :"September 1,2024",
-    runningMealRate :57,
+    othersBill      :70,
+    runningMonth    :"September-24",
+    previousMonth   :"August-24", // new addDecember
+    upComingMonth   :"October 1,2024",
+    runningMealRate :51,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -147,7 +147,7 @@ const members = {
         
         // pre-previous month list
         post_payable        :4110,
-        previous_paid       :4000,
+        previous_paid       :4500,
         previous_dining_cost:1425,
         payment             :undefined,
         // running month
@@ -168,7 +168,7 @@ const members = {
         // pre-previous month list
         post_payable        :2786,
         previous_paid       :5000,
-        previous_dining_cost:2166,
+        previous_dining_cost:2052,
         payment             :undefined,
         // running month
         stay_cost       :0,
@@ -228,7 +228,7 @@ const members = {
         // pre-previous month list
         post_payable        :1829,
         previous_paid       :3000,
-        previous_dining_cost:2451,
+        previous_dining_cost:2394,
         payment             :undefined,
         // running month
         stay_cost       :2500,
