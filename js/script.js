@@ -242,7 +242,7 @@ const members = {
         runningMonth,
         totalPayable
     },
-    "01821245430":{
+    "01749244430":{
         name:"Amdadul Haque",
          join:"new",
         // pre-previous month list
@@ -476,7 +476,7 @@ function opener(){
         if( memberNumber === "01834648400" || memberNumber === "01814843266" 
          || memberNumber === "01922362569" || memberNumber === "01744459622"
          || memberNumber === "01780608997" || memberNumber === "01640454889"
-         || memberNumber === "01645122114" || memberNumber === "01714443406"||memberNumber==="01821245430"){
+         || memberNumber === "01645122114" || memberNumber === "01714443406"||memberNumber==="01749244430"){
             document.getElementById("user-btn").style.opacity = 1;
             document.getElementById("submitBtn").style.display = 'inline-block';
             /*frontPage*///runningMonthPayment
@@ -691,11 +691,11 @@ function opener(){
                                                 <td>${members["01834648400"].runningMonth().diningDue}</td>
                                             </tr> 
                                             <tr>
-                                                <td>${members["01821245430"].name}</td>
-                                                <td>${members["01821245430"].runningDiningCost()}</td>
-                                                <td>${members["01821245430"].runningMonth().diningAdd}</td>
-                                                <td class="getMeals">${members["01821245430"].runningMonth().remainDining}</td>
-                                                <td>${members["01821245430"].runningMonth().diningDue}</td>
+                                                <td>${members["01749244430"].name}</td>
+                                                <td>${members["01749244430"].runningDiningCost()}</td>
+                                                <td>${members["01749244430"].runningMonth().diningAdd}</td>
+                                                <td class="getMeals">${members["01749244430"].runningMonth().remainDining}</td>
+                                                <td>${members["01749244430"].runningMonth().diningDue}</td>
                                             </tr>
                                             `;
             let colorChanged = document.getElementsByClassName('getMeals');
@@ -775,11 +775,11 @@ function opener(){
                                                 <td class="due-me">${members["01834648400"].runningMonth().diningDue}</td>
                                             </tr>
                                             <tr>
-                                                <th>${members["01821245430"].name}</th>
-                                                <td class="payable">${members["01821245430"].totalPayable()}</td>
-                                                <td class="paid-me">${members["01821245430"].running_paid}</td>
-                                                <td class="dining-me">${members["01821245430"].runningDiningCost()}</td>
-                                                <td class="due-me">${members["01821245430"].runningMonth().diningDue}</td>
+                                                <th>${members["01749244430"].name}</th>
+                                                <td class="payable">${members["01749244430"].totalPayable()}</td>
+                                                <td class="paid-me">${members["01749244430"].running_paid}</td>
+                                                <td class="dining-me">${members["01749244430"].runningDiningCost()}</td>
+                                                <td class="due-me">${members["01749244430"].runningMonth().diningDue}</td>
                                             </tr>
                                             `;
                 
