@@ -80,7 +80,7 @@ const members = {
     runningMonth    :"September-24",
     previousMonth   :"August-24", // new addDecember
     upComingMonth   :"October 1,2024",
-    runningMealRate :72,
+    runningMealRate :68,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -115,7 +115,7 @@ const members = {
         garage_cost     :0,
         running_payable :3021,
         running_paid    :3000,
-        running_meal    :18,
+        running_meal    :19,
         // method calling
         preMonth,
         runningDiningCost,
@@ -155,7 +155,7 @@ const members = {
         garage_cost     :0,
         running_payable :5265,
         running_paid    :6500,
-        running_meal    :19,
+        running_meal    :21,
         // method calling
         preMonth,
         runningDiningCost,
@@ -175,7 +175,7 @@ const members = {
         garage_cost     :0,
         running_payable :568,
         running_paid    :2000,
-        running_meal    :23,
+        running_meal    :25,
         // method calling
         preMonth,
         runningDiningCost,
@@ -215,7 +215,7 @@ const members = {
         garage_cost     :0,
         running_payable :4337,
         running_paid    :5000,
-        running_meal    :40,
+        running_meal    :42,
         // method calling
         preMonth,
         runningDiningCost,
@@ -235,7 +235,7 @@ const members = {
         garage_cost     :0,
         running_payable :4453,
         running_paid    :6100,
-        running_meal    :18,
+        running_meal    :22,
         // method calling
         preMonth,
         runningDiningCost,
@@ -255,7 +255,7 @@ const members = {
         garage_cost     :0,
         running_payable :6000,
         running_paid    :7000,
-        running_meal    :14,
+        running_meal    :16,
         // method calling
         preMonth,
         runningDiningCost,
